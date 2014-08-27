@@ -1,0 +1,24 @@
+{
+  "name": "jsonp",
+  "version": "0.0.1",
+  "description": "simple jsonp module",
+  "keywords": [],
+  "homepage": "",
+  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:MoeKit/jsonp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MoeKit/jsonp/issues"
+  },
+  "licenses": "MIT",
+  "spm": {
+    "main": "index.js",
+    "dependencies": {
+    },
+    "devDependencies": {
+      "expect.js": "0.3.1"
+    }
+  }
+}
